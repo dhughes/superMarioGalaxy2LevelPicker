@@ -1,0 +1,298 @@
+World 1
+	Sky Station Galaxy
+		Peewee Piranha's Temper Tantrum
+		Storming the Sky Fleet
+		Peewee Piranha's Speed Run
+		Green Star 1
+		Green Star 2
+		Green Star 3
+	Spin-Dig Galaxy
+		Digga-Leg's Planet
+		Silver Stars Down Deep
+		Digga-Leg's Daredevil Run
+		Green Star 1
+		Green Star 2
+		Green Star 3
+	Flip-Swap Galaxy*
+		Think Before You Shake
+		Purple Coin Flip 'n' Sprint
+		Green Star 1
+		Green Star 2
+	Yoshi Star Galaxy
+		Saddle Up with Yoshi
+		Spiny Control
+		Spiny Rainbow Romp
+		Green Star 1
+		Green Star 2
+		Green Star 3
+	Fluffy Bluff Galaxy
+		Search for the Toad Brigade Captain
+		The Chimp's Stomp Challenge
+		Every Planet Has Its Price
+		Green Star 1
+		Green Star 2
+		Green Star 3
+	Rightside Down Galaxy
+		Breaking the Laws of Gravity
+		The Great Crate Incinerator
+		Green Star 1
+		Green Star 2
+	Bowser Jr.'s Fiery Flotilla
+		Gobblegut's Aching Belly
+		Fiery Flotilla Speed Run
+		Green Star 1
+		Green Star 2
+World 2
+	Puzzle Plank Galaxy
+		The Puzzling Picture Block
+		Purple Coin Shadow Vault
+		Bugaboom's Back
+		Green Star 1
+		Green Star 2
+		Green Star 3
+	Boulder Bowl Galaxy
+		Rock and Rollodillo
+		Rolling Crabber Romp
+		C'mere, Goomba
+		Green Star 1
+		Green Star 2
+		Green Star 3
+	Wild Glide Galaxy
+		Fluzzard's First Flight
+		Jungle Fluzzard Race
+		Green Star 1
+		Green Star 2
+	Hightail Falls Galaxy
+		Hot-Stepping Dash Pepper
+		Hightail Falls Speed Run
+		Silver Stars in Hightail Falls
+		Green Star 1
+		Green Star 2
+		Green Star 3
+	Cosmic Cove Galaxy
+		Twin Falls Hideaway
+		Exploring the Cosmic Cavern
+		Catch That Star Bunny
+		Green Star 1
+		Green Star 2
+		Green Star 3
+	Honeybloom Galaxy*
+		Bumble Beginnings
+		The Secret Wall Jump
+		Green Star 1
+		Green Star 2
+	Bowser's Lava Lair
+		Bowser's Big Lava Power Party
+		Lava Lair Speed Run
+		Green Star 1
+		Green Star 2
+World 3
+	Tall Trunk Galaxy
+		The Flotacious Blimp Fruit
+		Tall Trunk's Big Slide
+		Tall Trunk's Purple Coin Slide
+		Green Star 1
+		Green Star 2
+		Green Star 3
+	Haunty Halls Galaxy
+		A Glimmer of Bulb Berry
+		Sneaking Down the Creepy Corridor
+		Spooky Cosmic Clone Chase
+		Green Star 1
+		Green Star 2
+		Green Star 3
+	Rolling Masterpiece Galaxy
+		Silver Chomp Grudge Match
+		Masterpiece Speed Run
+		Green Star 1
+		Green Star 2
+	Cloudy Court Galaxy
+		Head in the Clouds
+		The Shadow Lining
+		Silver Stars in the Purple Pond
+		Green Star 1
+		Green Star 2
+		Green Star 3
+	Freezy Flake Galaxy
+		Bowser on Ice
+		Sorbetti's Chilly Reception
+		The Chimp's Skating Challenge
+		Green Star 1
+		Green Star 2
+		Green Star 3
+	Beat Block Galaxy*
+		Step to the Beep
+		Silver Stars in Double Time
+		Green Star 1
+		Green Star 2
+	Bowser Jr.'s Fearsome Fleet
+		Bowser Jr.'s Mighty Megahammer
+		Megahammer's Daredevil Bash
+		Green Star 1
+		Green Star 2
+World 4
+	Supermassive Galaxy
+		Huge Trouble with Big Wigglers
+		Big Wigglers Speed Run
+		In Full Bloom
+		Green Star 1
+		Green Star 2
+		Green Star 3
+	Starshine Beach Galaxy
+		Surf, Sand, and Silver Stars
+		Climbing the Cloudy Tower
+		Purple Coin Beach Dash
+		Green Star 1
+		Green Star 2
+		Green Star 3
+	Sweet Mystery Galaxy*
+		Bulb Berry's Mysterious Glow
+		Bulb Berry's Purple Coin Glow
+		Green Star 1
+		Green Star 2
+	Flipsville Galaxy
+		Flip-Flopping in Flipsville
+		Flipsville's New Digs
+		Purple Coin Spin Speed Run
+		Green Star 1
+		Green Star 2
+		Green Star 3
+	Chompworks Galaxy
+		Where the Chomps Are Made of Gold
+		Spring into the Chompworks
+		Cosmic Clones in the Chompworks
+		Green Star 1
+		Green Star 2
+		Green Star 3
+	Honeyhop Galaxy
+		The Sweetest Silver Stars
+		The Chimp's Score Challenge
+		Green Star 1
+		Green Star 2
+	Bowser's Gravity Gauntlet
+		Breaking into Bowser's Castle
+		Gravity Star Speed Run
+		Green Star 1
+		Green Star 2
+World 5
+	Space Storm Galaxy
+		Follow Me, Bob-omb
+		To the Top of Topman's Tower
+		C'mere, Topman
+		Green Star 1
+		Green Star 2
+		Green Star 3
+	Shiverburn Galaxy
+		Prince Pikante's Peppery Mood
+		Octo-Army Icy Rainbow Romp
+		The Chimp's Ultimate Skating Challenge
+		Green Star 1
+		Green Star 2
+		Green Star 3
+	Upside Dizzy Galaxy
+		A Walk on the Weird Side
+		Burning Upside Dizzy
+		Green Star 1
+		Green Star 2
+	Slipsand Galaxy
+		Squizzard's Sandy Sinkhole
+		Sailing the Sandy Seas
+		Squizzard's Daredevil Run
+		Green Star 1
+		Green Star 2
+		Green Star 3
+	Boo Moon Galaxy
+		Silver Stars Pop-Up
+		Haunting the Howling Tower
+		The Star in the Sinking Swamp
+		Green Star 1
+		Green Star 2
+		Green Star 3
+	Fleet Glide Galaxy*
+		Fluzzard's Wild Battlefield Glide
+		Fastest Feathers in the Galaxy
+		Green Star 1
+		Green Star 2
+	Bowser Jr.'s Boom Bunker
+		Bowser Jr.'s Boomsday Machine
+		Boomsday Machine Daredevil Run
+		Green Star 1
+		Green Star 2
+World 6
+	Melty Monster Galaxy
+		The Magnificent Magma Sea
+		A Stroll Down Rolling Lane
+		The Chimp's Bowling Challenge
+		Green Star 1
+		Green Star 2
+		Green Star 3
+	Throwback Galaxy
+		Return of the Whomp King
+		Silver Stars in the Whomp Fortress
+		Whomp Silver Star Speed Run
+		Green Star 1
+		Green Star 2
+		Green Star 3
+	Flash Black Galaxy*
+		Jumping Around in the Dark
+		Dark Octo-Army Romp
+		Green Star 1
+		Green Star 2
+	Clockwork Ruins Galaxy
+		Time for Adventure
+		The Adventure of the Purple Coins
+		The Ledge Hammer Trap
+		Green Star 1
+		Green Star 2
+		Green Star 3
+	Battle Belt Galaxy
+		Mini-Planet Mega-Run
+		Mini-Planet Daredevil Run
+		Snacktime for Gobblegut
+		Green Star 1
+		Green Star 2
+		Green Star 3
+	Slimy Spring Galaxy
+		The Deep Shell Well
+		The Chimp's Coin Challenge
+		Green Star 1
+		Green Star 2
+	Bowser's Galaxy Generator
+		Bowser's Fortified Fortress
+		Bowser's Big Bad Speed Run
+		Green Star 1
+		Green Star 2
+World S
+	Mario Squared Galaxy
+		Make Mario a Star
+		Luigi's Purple Coin Chaos
+		Green Star 1
+		Green Star 2
+	Twisty Trials Galaxy
+		Spinning and Spinning and Spinning
+		Turning Turning Double Time
+		Green Star 1
+		Green Star 2
+	Boss Blitz Galaxy
+		Throwback Throwdown
+		Throwback Throwdown Speed Run
+		Green Star 1
+		Green Star 2
+	Rolling Coaster Galaxy
+		The Rainbow Road Roll
+		Purple Coins on the Rainbow Road
+		Green Star 1
+		Green Star 2
+	Stone Cyclone Galaxy
+		Silver Stars on the Cyclone
+		Tox Box Speed Run
+		Green Star 1
+		Green Star 2
+	Flip-Out Galaxy*
+		Wicked Wall Jumps
+		Cosmic Clone Wall Jumpers
+		Green Star 1
+		Green Star 2
+	Grandmaster Galaxy
+		The Ultimate Test
+		The Perfect Run
